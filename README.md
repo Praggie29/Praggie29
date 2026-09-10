@@ -142,7 +142,9 @@ Currently going deeper into:
 ### 💼 OPEN TO
 
 **Software Engineer / SDE**
+
 **Backend Developer** · **Full Stack / FSE**
+
 **Frontend Developer** · **Cloud / Platform** · **SRE / DevOps**
 
 </div>
@@ -153,17 +155,27 @@ I'm looking for opportunities where I can **build real products, solve engineeri
 
 ---
 
-## 📊 GitHub
+## 🤝 Let's Connect
 
-<div align="center">
+I'm always happy to **connect with developers, engineers, and people who enjoy building and learning together.**
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Praggie29&show_icons=true&hide_border=true&rank_icon=github&theme=transparent"/>
+Whether it's about **software engineering, DSA, backend development, cloud, system design, or interesting projects**, feel free to reach out.
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praggie29&layout=compact&hide_border=true&theme=transparent"/>
+<p align="center">
 
-</div>
+<a href="mailto:pragnyapraveena@gmail.com">
+<img src="https://img.shields.io/badge/Email-Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
----
+<a href="https://www.linkedin.com/in/pragnya-praveena-balla-8b251328b/">
+<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Praggie29">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
 
 <div align="center">
 
