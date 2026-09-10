@@ -97,7 +97,7 @@ A MERN application that analyzes a candidate's resume against a job description 
 **Stack:** `React` `Node.js` `Express` `MongoDB` `Gemini API` `Zod` `JWT` `Puppeteer`
 
 🔗 **[View Repository](https://github.com/Praggie29/Resume-interview-ai)**
-🔗 **Live Demo:** `YOUR_RESUME_AI_LIVE_URL`
+🔗 **Live Demo:** `(https://resume-interview-ai-qeyb.vercel.app/)`
 
 ---
 
@@ -120,8 +120,8 @@ Built to explore how multiple users can edit the same document while keeping the
 
 **Stack:** `React` `Tailwind CSS` `Node.js` `Express` `Socket.IO` `Yjs` `CRDT` `Docker` `AWS ECS/Fargate`
 
-🔗 **Repository:** `YOUR_COLLAB_REPO_URL`
-🔗 **Live Demo:** `YOUR_COLLAB_LIVE_URL`
+🔗 **`[View Repository](https://github.com/Praggie29/real-time-collaborative-code-editor)`**
+
 
 ---
 
