@@ -1,357 +1,393 @@
-<h1 align="center">Hey, I'm Pragnya 👋</h1>
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h3 align="center">
-  ECE Student • Software Developer • Problem Solver
-</h3>
+<!--                         PRAGNYA BALLA                           -->
 
-<p align="center">
-  <a href="https://github.com/Praggie29">
-    <img src="https://img.shields.io/badge/GitHub-Praggie29-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
----
+<div align="center">
 
-## 👩‍💻 About Me
+# `Pragnya Balla`
 
-```text
-🎓 B.Tech / B.E. in Electronics & Communication Engineering
-💻 Passionate about Software Development & Problem Solving
-🧠 Strong focus on DSA and Core Computer Science
-🌐 Building full-stack applications with MERN
-☁️ Exploring Cloud, DevOps & Distributed Systems
-🤖 Interested in practical AI integration
-🚀 Currently preparing for Software Engineering roles
-```
+### `ECE Student` • `Aspiring Software Engineer` • `Backend & Cloud Enthusiast`
 
-I enjoy turning ideas into working products, solving algorithmic problems,
-and understanding how systems work under the hood.
+**Building software. Understanding systems. Learning to ship reliably.**
 
----
+<br/>
 
-## 🛠️ Tech Stack
-
-### 👨‍💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,js,python,sql"/>
-</p>
-
-### 🌐 Full Stack Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind"/>
-</p>
-
-### ☁️ Cloud & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github"/>
-</p>
-
-### 🧠 Computer Science
-
-<p>
-<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-00599C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Object%20Oriented%20Programming-6A1B9A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Operating%20Systems-2E7D32?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DBMS-E65100?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Computer%20Networks-1565C0?style=for-the-badge"/>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🤖 ResumeAI Optimizer
-
-> AI-powered resume analysis and interview preparation platform.
-
-**Tech:** MERN • Gemini API • JWT • Zod • Puppeteer • MongoDB • Node.js
-
-* 📄 Upload a resume and provide a job description
-* 🤖 AI-powered resume/job matching
-* 📊 Match score and skill-gap analysis
-* 🎯 Technical & behavioral interview questions
-* 🗺️ Personalized day-wise preparation roadmap
-* 📑 Generates downloadable interview reports
-* 🔐 JWT authentication with HTTP-only cookies
-* ⚡ Server-side caching using NodeCache
-
-**Architecture:**
-
-```text
-React
-   ↓
-Express / Node.js
-   ↓
-Multer → PDF Parser
-   ↓
-Gemini API
-   ↓
-Zod Validation
-   ↓
-Report Generation
-   ↓
-MongoDB / Cache
-```
-
-🔗 **Repository:**
-https://github.com/Praggie29/Resume-interview-ai
-
----
-
-### 👥 Real-Time Collaborative Code Editor
-
-> A browser-based collaborative coding environment where multiple users
-> can edit the same document in real time.
-
-**Tech:** React • Tailwind • Monaco Editor • Node.js • Express • Socket.IO • Yjs • Docker • AWS ECS/Fargate
-
-* ⚡ Real-time multi-user editing
-* 🔄 Conflict-free synchronization using Yjs / CRDT
-* 🧩 Monaco Editor integration
-* 🔌 WebSocket communication with Socket.IO
-* 📦 Containerized using Docker
-* ☁️ Deployed using AWS ECS/Fargate
-* ⚖️ Load-balanced architecture using AWS ALB
-
-**Architecture:**
-
-```text
-        ┌───────────────┐
-        │    Browser    │
-        │ React + Monaco│
-        └───────┬───────┘
-                │
-           Socket.IO
-                │
-        ┌───────▼───────┐
-        │ Node / Express│
-        └───────┬───────┘
-                │
-              Yjs
-             /   \
-        User A   User B
-                │
-              Docker
-                │
-          AWS ECS/Fargate
-                │
-              ALB
-```
-
----
-
-### 🌍 Wanderlust
-
-> A MERN-based travel listing platform.
-
-**Tech:** MongoDB • Express • React • Node.js • REST APIs • Tailwind CSS
-
-* 🏠 Travel listing management
-* 🔐 User authentication
-* 🌐 RESTful backend
-* 🗄️ MongoDB data management
-* 📱 Responsive frontend
-
----
-
-## 🧩 Problem Solving
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-700%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/200%2B%20Day%20Streak-FFA116?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CodeChef-1200%2B-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Codeforces-Newbie-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</p>
-
-### 🧠 DSA Focus
-
-```text
-Arrays & Strings
-Linked Lists
-Stacks & Queues
-Binary Search
-Recursion & Backtracking
-Trees & BST
-Heaps
-Graphs
-Greedy
-Dynamic Programming
-Hashing
-Sliding Window
-Two Pointers
-```
-
-> 💡 I focus on understanding the intuition behind a solution before writing code.
-
----
-
-## ☁️ Cloud & DevOps Journey
-
-```text
-Linux
-  ↓
-Git & GitHub
-  ↓
-Docker
-  ↓
-AWS
-  ├── ECS
-  ├── Fargate
-  └── Application Load Balancer
-  ↓
-CI/CD
-  ↓
-Distributed Systems
-```
-
-Currently strengthening my knowledge in:
-
-* 🐧 Linux
-* 🐳 Docker
-* ☁️ AWS
-* 🔄 CI/CD
-* 🌐 Networking
-* ⚙️ System Design
-* 📦 Containerization
-* 🚀 Cloud Deployment
-
----
-
-## 🤖 AI & Machine Learning
-
-I'm interested in using AI as part of real-world software products rather than
-just building isolated ML models.
-
-### Currently explored:
-
-* Google Gemini API
-* Prompt Engineering
-* Structured AI outputs
-* Zod schema validation
-* AI-powered resume analysis
-* AI interview preparation
-* Azure Machine Learning / forecasting
-* AI fundamentals
-
----
-
-## 📚 Core Computer Science
-
-```text
-┌─────────────────────────────────────────┐
-│          COMPUTER SCIENCE                │
-├─────────────────────────────────────────┤
-│                                         │
-│  🧠 DSA                                 │
-│  ⚙️ Operating Systems                   │
-│  🗄️ DBMS                                │
-│  🌐 Computer Networks                   │
-│  🧩 Object Oriented Programming         │
-│  🐧 Linux                                │
-│  🌳 Algorithms                           │
-│                                         │
-└─────────────────────────────────────────┘
-```
-
-I enjoy understanding not only **how to build software**, but also
-**how the underlying systems work.**
-
----
-
-## 🏆 Certifications & Learning
-
-* 🟢 OCI AI Foundations
-* 🔴 Infosys Springboard AI Internship
-* 🔵 Azure Forecasting Project
-* ☁️ AWS / Cloud Fundamentals
-* 🐧 Linux Fundamentals
-* 🐳 Docker & Containerization
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Praggie29&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praggie29&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Praggie29&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🐍 My Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Praggie29/Praggie29/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
-
----
-
-## 🎯 Currently
-
-```text
-🔹 Solving DSA problems consistently
-🔹 Strengthening Core CS fundamentals
-🔹 Building full-stack applications
-🔹 Learning Cloud & DevOps
-🔹 Exploring AI-powered applications
-🔹 Improving System Design knowledge
-🔹 Preparing for Software Engineering roles
-```
-
----
-
-## 🌱 What's Next?
-
-```text
-MERN
-  +
-DSA
-  +
-Core CS
-  +
-Cloud
-  +
-DevOps
-  +
-AI
-  =
-🚀 Software Engineer
-```
-
-I'm continuously learning, building, and improving — one problem and one
-project at a time.
-
----
-
-## 🤝 Let's Connect
-
-<p align="center">
-
+<a href="YOUR_PORTFOLIO_URL">
+  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 <a href="https://github.com/Praggie29">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="YOUR_RESUME_URL">
+  <img src="https://img.shields.io/badge/Resume-DC2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</div>
+
+---
+
+## `whoami`
+
+```text
+ECE student → Software Engineering → Backend + Cloud → System Design
+
+I enjoy understanding what happens behind the interface:
+
+    Request
+       ↓
+    API
+       ↓
+    Backend
+       ↓
+    Database / Cache
+       ↓
+    Distributed Components
+       ↓
+    Cloud Infrastructure
+       ↓
+    Reliable Product
+```
+
+I'm currently focused on becoming a **strong Software Engineer** with a solid
+foundation in **DSA, backend engineering, cloud, system design and core CS**.
+
+My long-term direction is to grow from **SDE → Forward Deployed Engineer (FDE)**,
+where I can combine engineering depth with real-world problem solving.
+
+---
+
+## `current_focus`
+
+<table>
+<tr>
+<td width="50%">
+
+### ⚙️ Engineering
+
+* Backend development
+* REST API design
+* System design
+* Distributed systems fundamentals
+* Databases & caching
+* Scalability & reliability
+* Linux & networking
+* Docker & CI/CD
+* Cloud architecture
+
+</td>
+
+<td width="50%">
+
+### 🧠 Problem Solving
+
+* Data Structures & Algorithms
+* Competitive programming
+* OS
+* DBMS
+* Computer Networks
+* OOP
+* Production-oriented thinking
+* Debugging & problem decomposition
+
+</td>
+</tr>
+</table>
+
+---
+
+## `tech_stack`
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,js" />
+</p>
+
+**Also working with:** SQL
+
+### 🌐 Full Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nodejs,express,mongodb" />
+</p>
+
+`React.js` `Node.js` `Express.js` `MongoDB` `REST APIs`
+
+### ☁️ Cloud / DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github" />
+</p>
+
+`AWS ECS/Fargate` `AWS ALB` `CI/CD` `Linux`
+
+### 🤖 AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+`AI Fundamentals` `ML Fundamentals` `LLM/API Integration` `Google Gemini API`
+
+---
+
+# `featured_projects`
+
+## 🧠 ResumeAI Optimizer
+
+> **AI-powered resume & interview preparation platform**
+
+A MERN application that analyzes a candidate's resume against a job description
+and generates an actionable interview-preparation report.
+
+### Architecture
+
+```text
+Resume PDF + Self Description + Job Description
+                    │
+                    ▼
+              Express API
+                    │
+                    ▼
+             Multer Buffer
+                    │
+                    ▼
+              PDF Parsing
+                    │
+                    ▼
+          Gemini 2.5 Flash API
+                    │
+                    ▼
+              Zod Validation
+                    │
+                    ▼
+       Structured AI Interview Report
+                    │
+          ┌─────────┴─────────┐
+          ▼                   ▼
+      MongoDB              NodeCache
+          │
+          ▼
+    Puppeteer → A4 PDF
+```
+
+### Built with
+
+`React` `Node.js` `Express` `MongoDB` `Gemini API` `Multer` `pdf-parse`
+`Zod` `JWT` `bcrypt` `NodeCache` `Puppeteer`
+
+**Highlights**
+
+* Resume PDF processing using in-memory buffers
+* AI-generated match score and skill-gap analysis
+* Technical & behavioral interview questions
+* Personalized day-wise preparation roadmap
+* Zod-based structured AI response validation
+* JWT authentication using HTTP-only cookies
+* MongoDB-backed authentication/session management
+* Server-side caching with NodeCache
+* Downloadable A4 interview-preparation reports
+* Deployed using Vercel + Render
+
+🔗 **Repository:** [ResumeAI Optimizer](https://github.com/Praggie29/Resume-interview-ai)
+
+🔗 **Live:** `YOUR_RESUME_AI_LIVE_URL`
+
+---
+
+## ⚡ Real-Time Collaborative Code Editor
+
+> **A browser-based collaborative coding environment built around real-time synchronization**
+
+Multiple users can work on the same code document simultaneously while
+changes are synchronized in real time.
+
+### System
+
+```text
+              ┌───────────────┐
+              │    Client A   │
+              └───────┬───────┘
+                      │
+                      │ WebSocket
+                      ▼
+                ┌───────────┐
+                │ Socket.IO │
+                └─────┬─────┘
+                      │
+              ┌───────▼───────┐
+              │  Yjs / CRDT   │
+              │ Synchronizer  │
+              └───────┬───────┘
+                      │
+             ┌────────▼────────┐
+             │ Shared Document │
+             └────────┬────────┘
+                      │
+                ┌─────▼─────┐
+                │  Client B  │
+                └───────────┘
+```
+
+### Built with
+
+`React` `Tailwind CSS` `Monaco Editor` `Node.js` `Express.js`
+`Socket.IO` `Yjs` `CRDT` `Docker` `AWS ECS/Fargate` `AWS ALB`
+
+**Highlights**
+
+* Real-time multi-user editing
+* WebSocket-based communication
+* Conflict-free synchronization using Yjs/CRDT
+* Monaco Editor integration
+* Room/document-based collaboration
+* Dockerized deployment
+* AWS ECS/Fargate deployment
+* Application Load Balancer integration
+
+🔗 **Repository:** `YOUR_COLLAB_REPO_URL`
+
+🔗 **Live Demo:** `YOUR_COLLAB_LIVE_URL`
+
+---
+
+# `problem_solving`
+
+### 🧩 DSA
+
+```text
+700+ LeetCode Problems
+200-Day LeetCode Badge
+1400+ rated problems → continuously pushing higher
+```
+
+I enjoy breaking problems down into intuition first, then turning that
+intuition into clean and efficient C++ solutions.
+
+### Coding Profiles
+
+<a href="YOUR_LEETCODE_URL">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-</p>
+<a href="YOUR_CODECHEF_URL">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
 
-<p align="center">
-  <i>“Build. Break. Learn. Repeat.”</i> 🚀
-</p>
+<a href="YOUR_GFG_URL">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
 
-<p align="center">
-  ⭐ If you find my projects interesting, consider giving them a star!
-</p>
+<a href="YOUR_CODEFORCES_URL">
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
 
+---
+
+# `core_cs`
+
+```text
+┌─────────────────────────────────────────────────────────┐
+│                    COMPUTER SCIENCE                     │
+├──────────────┬──────────────┬──────────────┬────────────┤
+│     OS       │    DBMS      │     CN       │    OOP     │
+├──────────────┼──────────────┼──────────────┼────────────┤
+│ Processes    │ SQL          │ HTTP         │ Classes    │
+│ Threads      │ Indexing     │ TCP/IP       │ Inheritance│
+│ Scheduling   │ Transactions │ DNS          │ Polymorph. │
+│ Synchronize. │ Normalization│ Networking   │ Abstraction│
+└──────────────┴──────────────┴──────────────┴────────────┘
+```
+
+---
+
+# `engineering_direction`
+
+```text
+                    TODAY
+                      │
+                      ▼
+              ┌──────────────┐
+              │  SDE / SWE   │
+              └──────┬───────┘
+                     │
+                     ▼
+          ┌─────────────────────┐
+          │ Backend Engineering │
+          └──────────┬──────────┘
+                     │
+                     ▼
+             ┌─────────────┐
+             │    Cloud    │
+             └──────┬──────┘
+                    │
+                    ▼
+           ┌────────────────┐
+           │ System Design  │
+           │ + Distributed  │
+           │    Systems     │
+           └───────┬────────┘
+                   │
+                   ▼
+        ┌──────────────────────┐
+        │ Production Engineering│
+        └───────────┬──────────┘
+                    │
+                    ▼
+              LONG-TERM GOAL
+                    │
+                    ▼
+           ┌─────────────────┐
+           │       FDE       │
+           │ Forward Deployed│
+           │    Engineer     │
+           └─────────────────┘
+```
+
+**The goal isn't just to write code.**
+
+I want to understand the complete journey:
+
+`Problem → Design → Build → Deploy → Operate → Improve`
+
+---
+
+# `open_to`
+
+I'm currently open to opportunities where I can grow as a software engineer:
+
+`SDE` • `Backend Developer` • `Frontend Developer` • `Full Stack / FSE`
+• `Cloud` • `SRE` • `Platform / DevOps`
+
+### Long-term direction
+
+**Software Engineer → Forward Deployed Engineer**
+
+---
+
+# `github_activity`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Praggie29&show_icons=true&hide_border=true&rank_icon=github" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Praggie29&hide_border=true" height="165"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### `BUILD • LEARN • DEBUG • DEPLOY • REPEAT`
+
+<br/>
+
+**Always learning. Always building.**
+
+</div>
