@@ -93,8 +93,7 @@ I enjoy going beyond *"does it work?"* and understanding **why it works, how it 
 
 `React` · `Node.js` · `Socket.IO` · `Yjs` · `CRDT` · `Docker` · `AWS ECS/Fargate`
 
-🔗 [Repository](YOUR_COLLAB_REPO_URL)
-🔗 [Live Demo](YOUR_COLLAB_LIVE_URL)
+🔗 [Repository](https://github.com/Praggie29/real-time-collaborative-code-editor)
 
 ---
 
