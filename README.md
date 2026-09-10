@@ -4,17 +4,19 @@
 
 ### Aspiring Software Engineer · Backend · Cloud · System Design
 
-Building full-stack applications, solving problems with DSA, and going deeper into how software works behind the interface.
+Building full-stack applications, solving problems with DSA, and understanding how software works beyond the interface.
 
+<p>
 <a href="https://praggie29.github.io/Updated-Portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=flat-square&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/pragnya-praveena-balla-8b251328b/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://github.com/Praggie29">
-<img src="https://img.shields.io/badge/GitHub-Praggie29-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Praggie29-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+</p>
 
 </div>
 
@@ -31,12 +33,12 @@ My current focus is on:
 * 🧩 System design & distributed systems
 * 🧠 Data Structures & Algorithms
 * 💻 Core CS — OS, DBMS, CN & OOP
-* 🔧 Writing software that is scalable, reliable and understandable
+* 🔧 Scalable and reliable software
 
 I enjoy going beyond *"does it work?"* and understanding **why it works, how it scales, and what happens in production.**
 
-**Current goal:** Software Engineer / SDE
-**Long-term direction:** Software Engineering → Forward Deployed Engineering
+**Current Goal:** Software Engineer / SDE
+**Long-Term Direction:** Software Engineering → Forward Deployed Engineering
 
 ---
 
@@ -72,64 +74,35 @@ I enjoy going beyond *"does it work?"* and understanding **why it works, how it 
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Major Projects
 
 ### 🧠 ResumeAI Optimizer
 
-**AI-powered resume analysis and interview preparation platform**
+**AI-powered resume analysis & interview preparation platform**
 
-A MERN application that analyzes a candidate's resume against a job description and generates a structured preparation plan.
+`MERN` · `Gemini API` · `Zod` · `JWT` · `NodeCache` · `Puppeteer`
 
-**What I built:**
-
-* 📄 PDF processing using Multer + `pdf-parse`
-* 🤖 Resume analysis using Gemini 2.5 Flash
-* 🎯 Match score & skill-gap analysis
-* 💬 Technical & behavioral interview questions
-* 📅 Personalized preparation roadmap
-* 🛡️ Structured AI responses validated with Zod
-* 🔐 JWT authentication with HTTP-only cookies
-* 🔑 Password hashing using bcrypt
-* ⚡ Server-side caching using NodeCache
-* 📑 A4 PDF report generation using Puppeteer
-* ☁️ Deployed with Vercel + Render
-
-**Stack:** `React` `Node.js` `Express` `MongoDB` `Gemini API` `Zod` `JWT` `Puppeteer`
-
-🔗 **[View Repository](https://github.com/Praggie29/Resume-interview-ai)**
-🔗 **Live Demo:** `(https://resume-interview-ai-qeyb.vercel.app/)`
+🔗 [Repository](https://github.com/Praggie29/Resume-interview-ai)
+🔗 [Live Demo](https://resume-interview-ai-qeyb.vercel.app/)
 
 ---
 
 ### ⚡ Real-Time Collaborative Code Editor
 
-**A browser-based collaborative coding environment with real-time synchronization**
+**Real-time multi-user code editing with conflict-free synchronization**
 
-Built to explore how multiple users can edit the same document while keeping their changes synchronized.
+`React` · `Node.js` · `Socket.IO` · `Yjs` · `CRDT` · `Docker` · `AWS ECS/Fargate`
 
-**What I built:**
-
-* 👥 Real-time multi-user editing
-* 🔌 WebSocket communication with Socket.IO
-* 🧩 Conflict-free synchronization using Yjs / CRDT
-* 🖥️ Monaco Editor integration
-* 🏠 Room/document-based collaboration
-* 🐳 Dockerized application
-* ☁️ Deployed using AWS ECS/Fargate
-* ⚖️ AWS Application Load Balancer integration
-
-**Stack:** `React` `Tailwind CSS` `Node.js` `Express` `Socket.IO` `Yjs` `CRDT` `Docker` `AWS ECS/Fargate`
-
-🔗 **`[View Repository](https://github.com/Praggie29/real-time-collaborative-code-editor)`**
-
+🔗 [Repository](YOUR_COLLAB_REPO_URL)
+🔗 [Live Demo](YOUR_COLLAB_LIVE_URL)
 
 ---
 
 ## 🧠 Problem Solving
 
-**700+ LeetCode problems solved** · **200-day LeetCode badge**
+**700+ LeetCode Problems Solved** · **200-Day LeetCode Badge**
 
-I focus on understanding the intuition behind a problem first and then converting it into clean, efficient C++.
+I focus on understanding the **intuition first**, then converting it into clean and efficient C++.
 
 <p align="center">
 
@@ -153,26 +126,31 @@ I focus on understanding the intuition behind a problem first and then convertin
 
 ---
 
-## 📚 Core Computer Science
+## 💻 Core Computer Science
 
 **Operating Systems** · **DBMS** · **Computer Networks** · **OOP** · **DSA**
 
 Currently going deeper into:
 
-**Backend Architecture · System Design · Distributed Systems · Caching · Scalability · Reliability · Cloud Infrastructure**
+`Backend Architecture` · `System Design` · `Distributed Systems` · `Caching` · `Scalability` · `Reliability` · `Cloud Infrastructure`
 
 ---
 
-## 🎯 What I'm Looking For
+## 🎯 Open to Opportunities
 
-I'm currently interested in opportunities where I can grow as a software engineer and work on real engineering problems.
+<div align="center">
 
-**Open to:**
+### 💼 OPEN TO
 
-`Software Engineer / SDE` · `Backend Developer` · `Full Stack / FSE`
-`Frontend Developer` · `Cloud / Platform` · `SRE / DevOps`
+**Software Engineer / SDE**
+**Backend Developer** · **Full Stack / FSE**
+**Frontend Developer** · **Cloud / Platform** · **SRE / DevOps**
 
-Long term, I want to grow toward **Forward Deployed Engineering** by combining strong software engineering with real-world problem solving.
+</div>
+
+I'm looking for opportunities where I can **build real products, solve engineering problems, and grow as a software engineer.**
+
+**Long-term direction:** Software Engineering → Forward Deployed Engineering
 
 ---
 
@@ -190,8 +168,6 @@ Long term, I want to grow toward **Forward Deployed Engineering** by combining s
 
 <div align="center">
 
-### Build. Understand. Ship. Improve.
-
-**Always learning. Always building.**
+### Build · Understand · Ship · Improve
 
 </div>
