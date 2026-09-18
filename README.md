@@ -47,7 +47,7 @@ I enjoy going beyond *"does it work?"* and understanding **why it works, how it 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,python,js" />
+<img src="https://skillicons.dev/icons?i=cpp,python,js,sql" />
 </p>
 
 `C++` · `Python` · `JavaScript` · `SQL`
