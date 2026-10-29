@@ -31,8 +31,6 @@ My current focus is on:
 * ⚙️ Backend engineering & API design
 * ☁️ Cloud & deployment
 * 🧩 System design & distributed systems
-* 🧠 Data Structures & Algorithms
-* 💻 Core CS — OS, DBMS, CN & OOP
 * 🔧 Scalable and reliable software
 
 I enjoy going beyond *"does it work?"* and understanding **why it works, how it scales, and what happens in production.**
